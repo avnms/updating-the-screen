@@ -1,0 +1,9 @@
+* {
+  font-family: Poppins;
+  text-align: center;
+}
+
+button {
+  margin: 20px;
+  font-size: large;
+}
